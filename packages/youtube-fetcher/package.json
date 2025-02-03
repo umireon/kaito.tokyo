@@ -9,7 +9,7 @@
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
-		"@google-cloud/storage": "^7.14.0",
+		"@google-cloud/storage": "^7.15.0",
 		"express": "^4.21.2",
 		"googleapis": "^144.0.0"
 	},
